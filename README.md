@@ -1,5 +1,5 @@
 # cardapio-menu
-# Bobos Store
+# SALGA'S SALGADOS
 
 Este é um projeto fictício chamado Salga's Salgados, uma loja online que oferece uma variedade de salgados, bebidas e adicionais. Este README fornece uma visão geral do projeto, sua estrutura de arquivos, tecnologias usadas e instruções sobre como executá-lo localmente. Esse projeto e uma atividade proposta pelo docente Leonardo da diciplina de Dsenvolvimento Web 1.
 
